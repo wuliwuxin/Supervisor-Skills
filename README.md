@@ -194,6 +194,9 @@ Supervisor-Skills/
 
 ## 快速开始 (Quick Start)
 
+**本地全局安装（跨 harness）**：运行 `python3 scripts/supervisor_skills.py install`。
+这会安装统一 `supervisor` 入口、12 个带前缀的技能与通用 CLI；详见[安装与使用说明](INSTALL.md)。
+
 把下方这段 Prompt 发给你的 AI 助手（Claude Code、Cursor、Codex 等）即可完成安装：
 
 ```

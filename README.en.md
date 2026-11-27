@@ -203,6 +203,10 @@ This is the core of the repository. The theoretical experience above is distille
 
 ## Quick Start
 
+**Local cross-harness installation:** run `python3 scripts/supervisor_skills.py install`.
+This installs the `supervisor` router, 12 namespaced skills, and a portable CLI.
+See [installation and usage](INSTALL.md).
+
 Paste the following prompt into your AI assistant (Claude Code, Cursor, Codex, and similar) to complete the installation:
 
 ```
